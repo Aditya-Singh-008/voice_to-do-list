@@ -1,0 +1,20 @@
+{
+  "name": "VoiceTodo - Smart Task Manager",
+  "short_name": "VoiceTodo",
+  "description": "A mobile-optimized to-do list with voice recording and reminders",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f9fafb",
+  "theme_color": "#2196f3",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgdmlld0JveD0iMCAwIDE5MiAxOTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjE5MiIgaGVpZ2h0PSIxOTIiIHJ4PSI0OCIgZmlsbD0iIzIxOTZGMyIvPjxwYXRoIGQ9Ik05NiA2NEg5NlY4MEg5NlY2NFoiIGZpbGw9IndoaXRlIi8+PHBhdGggZD0iTTk2IDY0QzEwNC44MzcgNjQgMTEyIDcxLjE2MyAxMTIgODBWMTEyQzExMiAxMjAuODM3IDEwNC44MzcgMTI4IDk2IDEyOEM4Ny4xNjMgMTI4IDgwIDEyMC44MzcgODAgMTEyVjgwQzgwIDcxLjE2MyA4Ny4xNjMgNjQgOTYgNjRaIiBmaWxsPSJ3aGl0ZSIvPjxwYXRoIGQ9Ik02NCA5NlY5NkMzNS4wNzIgOTYgMjQgMTEyIDI0IDExMkMyNCAxMTIgMzUuMDcyIDEyOCA2NCAxMjgiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+PHBhdGggZD0iTTEyOCA5NlY5NkMxNTYuOTI4IDk2IDE2OCAxMTIgMTY4IDExMkMxNjggMTEyIDE1Ni45MjggMTI4IDEyOCAxMjgiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+PC9zdmc+",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["productivity", "utilities"],
+  "lang": "en",
+  "dir": "ltr"
+}
